@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://44ailab.github.io/japan-property-notes/sitemap.xml
